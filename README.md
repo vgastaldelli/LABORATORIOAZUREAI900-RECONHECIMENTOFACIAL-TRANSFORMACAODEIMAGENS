@@ -25,7 +25,7 @@ Utilizamos como base as seguintes documentações abaixo:
 
 ### _Todo o processo do projeto realizou-se em três etapas independentes, elencadas abaixo:_
 
-# Etapa "Detect faces in an image" 🧑👧👩👱‍♂️
+# Etapa "Detect faces in an image" 🧑👧👱‍♂️
 
 4 - Primeiro, foi selecionado três imagens de celebridades reconhecidas: Fernanda Montenegro, atriz brasileira; Jimmy Fallon, aprensentador de televisão norte-americano;
 Paola Carosella, chefe de cozinha argentina-brasileira.
@@ -36,7 +36,7 @@ Segue exemplo abaixo de Paola Carosella, chefe de cozinha argentina-brasileira:
 
 As imagens originais das celebridades, se encontram armazenadas na pasta INPUT do repositório e os resultados na pasta OUTPUT do repositório, com o seguinte nome: "Face Detection Result - nome da celebridade".
 
-# Etapa "Extract text from images"📑📰🧾📓
+# Etapa "Extract text from images"📑📰🧾
 
 5 - Nesta etapa também foi selecionado três imagens: anotações em um caderno; capa de um livro de fotografia; e a capa de um DVD.
 
