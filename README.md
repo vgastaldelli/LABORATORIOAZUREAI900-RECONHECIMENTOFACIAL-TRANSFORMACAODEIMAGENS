@@ -23,7 +23,7 @@ Utilizamos como base as seguintes documentações abaixo:
 
 ![box marcação](https://github.com/vgastaldelli/LABORATORIOAZUREAI900-RECONHECIMENTOFACIAL-TRANSFORMACAODEIMAGENS/assets/160192109/3f00f963-3448-4eae-bdf6-aac004b31b5b)
 
-_Todo o processo do projeto realizou-se em três etapas elencadas abaixo de forma independente:_
+### _Todo o processo do projeto realizou-se em três etapas independentes, elencadas abaixo:_
 
 # Etapa "Detect faces in an image" 🧑👧👩👱‍♂️
 
