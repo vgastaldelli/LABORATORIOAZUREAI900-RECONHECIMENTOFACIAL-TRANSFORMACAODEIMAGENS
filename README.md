@@ -56,5 +56,5 @@ Segue exemplo abaixo de cachorro pequeno:
 
 As imagens originais se encontram armazenadas na pasta INPUT do repositório e os resultados na pasta OUTPUT do repositório, com o seguinte nome: "Image Captioning Result - nome da imagem".
 
-_Observação: pensando no âmbito da inclusão escolar, professores podem utilizar essa ferramenta do Al Vision Studio, para elaboração de materiais para estudantes com deficiência visual, visando adaptação dos conteúdos em sala de aula e elaboração aprimorada
-dos planos de ensino-aprendizagem_.
+_Observação: pensando no âmbito da inclusão escolar, professores podem utilizar essa ferramenta do Al Vision Studio, para elaboração de materiais para estudantes com deficiência visual, visando adaptação dos conteúdos em sala de aula e oferecendo maior acessibilidade
+aos planos de ensino-aprendizagem_.
